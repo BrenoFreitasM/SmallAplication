@@ -1,0 +1,28 @@
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.exe
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.deps.json
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.runtimeconfig.json
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.runtimeconfig.dev.json
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.dll
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.pdb
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.csproj.AssemblyReference.cache
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.AssemblyInfoInputs.cache
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.AssemblyInfo.cs
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.csproj.CoreCompileInputs.cache
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.dll
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.pdb
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.genruntimeconfig.cache
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.exe
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.csproj.AssemblyReference.cache
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.AssemblyInfoInputs.cache
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.AssemblyInfo.cs
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.csproj.CoreCompileInputs.cache
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.dll
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.pdb
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.deps.json
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.runtimeconfig.json
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.runtimeconfig.dev.json
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.dll
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\bin\Debug\netcoreapp3.1\Aplicação no Console.pdb
+E:\Users\breno\Documents\12- DevBreno\C#\Aplicação no Console\Aplicação no Console\obj\Debug\netcoreapp3.1\Aplicação no Console.genruntimeconfig.cache
